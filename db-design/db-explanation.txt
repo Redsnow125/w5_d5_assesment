@@ -1,0 +1,8 @@
+Many People can look at many kennels 
+Each kennel has just one dog in it
+Animals each get vet care 
+  - the vet care has differnt procedures that can be done
+Animals can be multiple different breeds
+  - they can only be one species
+Each person has one or more favorite breed
+  - Each dog could be that breed mixed with others
